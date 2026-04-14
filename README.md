@@ -314,7 +314,11 @@ Future Enhancements
 10. Introduce CI CD pipeline and environment-based deployment.
 
 Author Information
+
 Name: Khokhar Ridham
+
 Program: Bachelor of Computer Applications, Semester 4
+
 Role: Full Stack Java Web Developer
+
 Email: khokharridham0@gmail.com
