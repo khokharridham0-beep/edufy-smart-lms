@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7385a96e-5fb4-477b-b36a-0005f534df14" /># edufy-smart-lms
+
 🚀 Edufy – AI-assisted Smart LMS with JSP, Servlets, plagiarism detection &amp; premium SaaS UI
 
 Project Overview
